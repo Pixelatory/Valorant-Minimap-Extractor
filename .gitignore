@@ -1,5 +1,9 @@
-.vscode/
+.vscode
+__pycache__
+debug/
 *.png
 !screenshot-1.png
 !screenshot-2.png
 !ascent.png
+!map_templates/*.png
+!examples/*.png
